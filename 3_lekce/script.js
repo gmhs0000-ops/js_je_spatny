@@ -39,7 +39,7 @@ if (age > 12) {
   console.log("expired");
 }
 
-if (age < 10) {
+if (age < 13) {
   console.log("FRESH");
 }
 
