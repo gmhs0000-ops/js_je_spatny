@@ -8,3 +8,10 @@ if (isLoggedIn) {
         console.log("Palantir dashboard accessed.")
     }
 }
+
+let age = 12;
+let hasMassagedJeff = true;
+
+if (age < 13) {
+
+}
